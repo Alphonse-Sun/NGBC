@@ -1,0 +1,10 @@
+[2020-01-31 17:04:31] local.ERROR: Symfony\Component\Debug\Exception\FatalErrorException: Maximum execution time of 30 seconds exceeded in D:\web\ng-test\vendor\curl\curl\src\Curl\Curl.php:181
+Stack trace:
+#0 {main}  
+[2020-01-31 17:04:49] local.ERROR: Symfony\Component\Debug\Exception\FatalErrorException: Maximum execution time of 30 seconds exceeded in D:\web\ng-test\vendor\curl\curl\src\Curl\Curl.php:181
+Stack trace:
+#0 {main}  
+[2020-01-31 17:05:57] local.INFO: {"name":"we2017","amount":"11","api_id":266,"time":"20200131170557","type":1,"before_amount":"1512.00"}  
+[2020-01-31 17:05:57] local.INFO: {"name":"we2017","amount":"11","api_id":266,"time":"20200131170557","type":1,"after_amount":1501}  
+[2020-01-31 17:06:10] local.INFO: {"name":"we2017","amount":"11.00","api_id":266,"time":"20200131170610","type":2,"after_money":"1501.00"}  
+[2020-01-31 17:06:10] local.INFO: {"name":"we2017","amount":"11.00","api_id":266,"time":"20200131170610","type":2,"after_money":1512}  
